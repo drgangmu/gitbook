@@ -8,4 +8,5 @@
 
 * Monte Carlo Simulation and Optimization
 * Optimal Transport Theory
+* Digital Twins
 * Healthcare Economics
