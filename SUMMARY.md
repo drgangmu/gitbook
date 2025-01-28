@@ -7,10 +7,6 @@
 
 * [Half Marathon in Geneva](my-running/half-marathon-in-geneva.md)
 
-## Grand Tour of Switerland
-
-* [Start of the Grand Tour](grand-tour-of-switerland/start-of-the-grand-tour.md)
-
 ## My Mathematics <a href="#my-math" id="my-math"></a>
 
 * [All Mathematics You need to know](my-math/all-mathematics-you-need-to-know.md)
